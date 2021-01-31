@@ -25,7 +25,7 @@ public class SnapShopConfiguration {
 		theShop.addFilter(new UnsharpMasking(),"Unsharp masking");
 		theShop.addFilter(new Edgy(),"Edgy");
 		theShop.addFilter(new BlackAndWhite(),"BlackAndWhite");
-		theShop.addFilter(new Exp(),"Exp");
+		theShop.addFilter(new Exp3(),"Exp3");
 		theShop.addFilter(new Exp1(),"Exp1");
 		theShop.addFilter(new Exp2(),"Exp2");
 		theShop.addFilter(new Emboss(),"Emboss");
